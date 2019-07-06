@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc4d2240-8d11-4eaf-a035-7ff6cba54419" name="Default Changelist" comment="" />
+    <list default="true" id="bc4d2240-8d11-4eaf-a035-7ff6cba54419" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaqi/JavaAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaqi/JavaAPI.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,20 +27,20 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="1400" />
+          <entry key="java" value="1890" />
           <entry key="xml" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="1400" />
+          <entry key="JAVA" value="1890" />
           <entry key="XML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="50" />
+          <entry key="java" value="53" />
           <entry key="properties" value="1" />
           <entry key="xml" value="1" />
         </counts>
@@ -44,7 +48,7 @@
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="50" />
+          <entry key="JAVA" value="53" />
           <entry key="Properties" value="1" />
           <entry key="XML" value="1" />
         </counts>
@@ -52,29 +56,7 @@
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaqi/JavaAPI.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="156">
-              <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="151">
-              <caret line="1034" column="19" selection-start-line="1034" selection-start-column="19" selection-end-line="1034" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -82,6 +64,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="projectSyncType">
@@ -141,6 +126,9 @@
     <option name="width" value="950" />
     <option name="height" value="693" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -188,7 +176,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562422392118" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562425081428" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -297,7 +285,7 @@
       <updated>1562169416016</updated>
       <workItem from="1562169421522" duration="1975000" />
       <workItem from="1562224795141" duration="10420000" />
-      <workItem from="1562399066781" duration="8619000" />
+      <workItem from="1562399066781" duration="11281000" />
     </task>
     <servers />
   </component>
@@ -334,27 +322,26 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21014000" />
+    <option name="totallyTimeSpent" value="23676000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.19440243" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19440243" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Tail" order="0" />
       <window_info anchor="bottom" id="Messages" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.54253614" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.45819935" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
-      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.28250402" />
+      <window_info anchor="bottom" id="Run" order="7" weight="0.6035313" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Debug" order="9" weight="0.4494382" />
       <window_info anchor="bottom" id="Cvs" order="10" weight="0.25" />
@@ -598,13 +585,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/Watcher.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="578">
-          <caret line="153" column="44" selection-start-line="153" selection-start-column="44" selection-end-line="153" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/client/ConnectStringParser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="535">
@@ -613,13 +593,6 @@
             <element signature="e#2891#2892#0" expanded="true" />
             <element signature="e#2929#2930#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="362">
-          <caret line="635" column="35" lean-forward="true" selection-start-line="635" selection-start-column="35" selection-end-line="635" selection-end-column="35" />
         </state>
       </provider>
     </entry>
@@ -663,17 +636,41 @@
     <entry file="file://$PROJECT_DIR$/src/main/resources/log4j.properties">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/Watcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="22" column="3" lean-forward="true" selection-start-line="22" selection-start-column="3" selection-end-line="22" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="1465" column="16" selection-start-line="1465" selection-start-column="16" selection-end-line="1465" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="151">
-          <caret line="1034" column="19" selection-start-line="1034" selection-start-column="19" selection-end-line="1034" selection-end-column="19" />
+        <state relative-caret-position="323">
+          <caret line="645" column="18" selection-start-line="645" selection-start-column="18" selection-end-line="645" selection-end-column="18" />
+          <folding>
+            <element signature="e#27579#27580#0" expanded="true" />
+            <element signature="e#27625#27626#0" expanded="true" />
+            <element signature="e#27963#27964#0" expanded="true" />
+            <element signature="e#28010#28011#0" expanded="true" />
+            <element signature="e#28246#28247#0" expanded="true" />
+            <element signature="e#28292#28293#0" expanded="true" />
+            <element signature="e#28507#28508#0" expanded="true" />
+            <element signature="e#28560#28561#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaqi/JavaAPI.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="23" column="45" lean-forward="true" selection-start-line="23" selection-start-column="45" selection-end-line="23" selection-end-column="45" />
+        <state relative-caret-position="323">
+          <caret line="35" column="27" selection-start-line="35" selection-start-column="27" selection-end-line="35" selection-end-column="27" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
