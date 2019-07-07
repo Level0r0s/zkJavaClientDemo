@@ -1,4 +1,4 @@
-package com.xiaqi;
+package com.xiaqi.originJavaAPI;
 
 import org.apache.zookeeper.*;
 import org.apache.zookeeper.data.Stat;
@@ -9,7 +9,7 @@ import java.util.concurrent.CountDownLatch;
  * @author xiaqi
  * @date 2019/7/6
  */
-public class JavaAPI implements Watcher {
+public class JavaBaseAPI implements Watcher {
 
     private static final CountDownLatch countDownLatch = new CountDownLatch(1);
 
@@ -19,7 +19,7 @@ public class JavaAPI implements Watcher {
 
     public static void main(String[] args) throws Exception {
         // create zookeeper client
-        ZooKeeper zooKeeper = new ZooKeeper(CONNECT_STRING,timeout,new JavaAPI());
+        ZooKeeper zooKeeper = new ZooKeeper(CONNECT_STRING,timeout,new JavaBaseAPI());
         // wait until the connection finished
         countDownLatch.await();
         // delete the node if need
