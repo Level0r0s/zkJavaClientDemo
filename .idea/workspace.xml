@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="bc4d2240-8d11-4eaf-a035-7ff6cba54419" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/JavaAuthTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/JavaAuthTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/TestZookeeperAuth.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -18,45 +17,47 @@
     <session id="-1898993901">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.2" value="2" />
+          <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="dummy" value="4" />
-          <entry key="java" value="3643" />
+          <entry key="dummy" value="9" />
+          <entry key="java" value="3653" />
           <entry key="md" value="82" />
-          <entry key="xml" value="4" />
+          <entry key="xml" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="3643" />
+          <entry key="JAVA" value="3653" />
           <entry key="Markdown" value="82" />
-          <entry key="PLAIN_TEXT" value="4" />
-          <entry key="XML" value="4" />
+          <entry key="PLAIN_TEXT" value="9" />
+          <entry key="XML" value="14" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="6" />
-          <entry key="java" value="57" />
+          <entry key="java" value="59" />
           <entry key="md" value="1" />
           <entry key="properties" value="1" />
-          <entry key="xml" value="1" />
+          <entry key="xml" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="6" />
-          <entry key="JAVA" value="57" />
+          <entry key="JAVA" value="59" />
           <entry key="Markdown" value="1" />
           <entry key="Properties" value="1" />
-          <entry key="XML" value="1" />
+          <entry key="XML" value="2" />
         </counts>
       </usages-collector>
     </session>
@@ -84,12 +85,14 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/test/java/com/xiaqi/test/Test1.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaqi/JavaAPI.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/TestZookeeperAuth.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/JavaAuthTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/ZookeeperWater.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/ZookeeperWatcher.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -200,7 +203,8 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562685797099" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1562685814406" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xmall" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
@@ -326,6 +330,8 @@
       <workItem from="1562224795141" duration="10420000" />
       <workItem from="1562399066781" duration="12650000" />
       <workItem from="1562513572608" duration="4434000" />
+      <workItem from="1562685689856" duration="450000" />
+      <workItem from="1562767189641" duration="1709000" />
     </task>
     <servers />
   </component>
@@ -362,7 +368,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29479000" />
+    <option name="totallyTimeSpent" value="31638000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
@@ -372,12 +378,12 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.19213313" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.20574887" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Tail" order="0" />
       <window_info anchor="bottom" id="Messages" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="3" weight="0.34244373" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.6237942" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="5" />
       <window_info anchor="bottom" id="Find" order="6" />
@@ -446,13 +452,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="172">
           <caret line="330" column="30" lean-forward="true" selection-start-line="330" selection-start-column="30" selection-end-line="330" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
         </state>
       </provider>
     </entry>
@@ -681,40 +680,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/TestZookeeperAuth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="140" column="36" lean-forward="true" selection-start-line="140" selection-start-column="36" selection-end-line="140" selection-end-column="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/TestZookeeperAuth.java" />
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.4.12/zookeeper-3.4.12-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="323">
           <caret line="379" column="11" selection-start-line="379" selection-start-column="11" selection-end-line="379" selection-end-column="11" />
-          <folding>
-            <element signature="e#27579#27580#0" expanded="true" />
-            <element signature="e#27625#27626#0" expanded="true" />
-            <element signature="e#27963#27964#0" expanded="true" />
-            <element signature="e#28010#28011#0" expanded="true" />
-            <element signature="e#28246#28247#0" expanded="true" />
-            <element signature="e#28292#28293#0" expanded="true" />
-            <element signature="e#28507#28508#0" expanded="true" />
-            <element signature="e#28560#28561#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/JavaAuthTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1204">
+        <state relative-caret-position="1292">
           <caret line="68" column="38" lean-forward="true" selection-start-line="68" selection-start-column="38" selection-end-line="68" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/xiaqi/originJavaAPI/ZookeeperWatcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-183">
+          <caret line="262" column="41" lean-forward="true" selection-start-line="262" selection-start-column="41" selection-end-line="262" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="21" selection-start-line="21" selection-end-line="25" selection-end-column="21" />
         </state>
       </provider>
     </entry>
