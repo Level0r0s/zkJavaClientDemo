@@ -1,4 +1,4 @@
-package com.xiaqi.originJavaAPI;
+package com.xiaqi.zookeeper.originJavaAPI;
 
 import org.apache.zookeeper.*;
 

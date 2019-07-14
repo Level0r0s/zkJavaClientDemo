@@ -1,4 +1,4 @@
-package com.xiaqi.zkClient;
+package com.xiaqi.zookeeper.zkClient;
 
 import org.I0Itec.zkclient.ZkClient;
 
